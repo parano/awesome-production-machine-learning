@@ -97,6 +97,7 @@ This repository contains a curated list of awesome open source libraries that wi
 * [tensorflow's lucid](https://github.com/tensorflow/lucid) ![](https://img.shields.io/github/stars/tensorflow/lucid.svg?style=social) - Lucid is a collection of infrastructure and tools for research in neural network interpretability.
 * [themis-ml](https://github.com/cosmicBboy/themis-ml) ![](https://img.shields.io/github/stars/cosmicBboy/themis-ml.svg?style=social) - themis-ml is a Python library built on top of pandas and sklearn that implements fairness-aware machine learning algorithms.
 * [woe](https://github.com/boredbird/woe) ![](https://img.shields.io/github/stars/boredbird/woe.svg?style=social) - Tools for WoE Transformation mostly used in ScoreCard Model for credit rating
+
 ## Privacy Preserving Machine Learning
 * [Intel Homomorphic Encryption Backend](https://github.com/NervanaSystems/he-transformer) ![](https://img.shields.io/github/stars/NervanaSystems/he-transformer.svg?style=social) - The Intel HE transformer for nGraph is a Homomorphic Encryption (HE) backend to the Intel nGraph Compiler, Intel's graph compiler for Artificial Neural Networks.
 * [PySyft](https://github.com/OpenMined/PySyft) ![](https://img.shields.io/github/stars/OpenMined/PySyft.svg?style=social) - A Python library for secure, private Deep Learning. PySyft decouples private data from model training, using Multi-Party Computation (MPC) within PyTorch.
